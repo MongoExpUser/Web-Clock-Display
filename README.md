@@ -16,4 +16,4 @@ JavaScript ES5+
 
 Python v3.7
 
-Brython v3.7
+Brython v3.7 (see: http://brython.info/)
