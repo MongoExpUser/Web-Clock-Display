@@ -10,3 +10,10 @@ but they are all displayed via web request made to server before they are displa
 wall, dashboard, appliances, etc.,
 
 
+This repo is based on the following languages' versions:
+
+JavaScript ES6
+
+Python v3.7
+
+Brython v3.7
