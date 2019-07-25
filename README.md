@@ -12,7 +12,7 @@ wall, dashboard, appliances, etc.,
 
 This repo is based on the following languages' versions:
 
-JavaScript ES6
+JavaScript ES5+
 
 Python v3.7
 
