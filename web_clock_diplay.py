@@ -4,7 +4,7 @@
 # *
 # * Copyright © 2015 - present. MongoExpUser
 # *
-# * License: MIT - See: https://github.com/MongoExpUser/Shale-Reservoir-DNN/blob/master/LICENSE
+# * License: BSD - https://github.com/MongoExpUser/Clock-Display/blob/master/LICENSE
 # *
 # * @License Ends
 # *
