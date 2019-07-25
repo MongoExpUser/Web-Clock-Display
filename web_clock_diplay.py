@@ -35,7 +35,7 @@ try:
   from browser import timer, document, window
   from abc import (ABCMeta, abstractmethod, abstractproperty)
 except(ImportError) as err:
-  print(err)
+  print(str(err))
   return
 #=============================================================================================================================
 
