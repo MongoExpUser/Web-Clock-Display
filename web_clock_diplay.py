@@ -1,5 +1,5 @@
-# ****************************************************************************************
-# ****************************************************************************************
+# ****************************************************************************************************************************
+# ****************************************************************************************************************************
 # * @License Starts
 # *
 # * Copyright © 2015 - present. MongoExpUser
@@ -11,9 +11,12 @@
 # *
 # * ...Ecotert's web_clock_display.py  (released as open-source under BSD 3-Clause "New" or "Revised" License) implements:
 #
-#  Clock (time) display for the web:  Clock be web site or wall clock, car dashboard clock, appliances dashboard clock, etc.)
-#  but they are all display through ajax call over the internet.
-
+#  Clock (time) display for the web.
+#
+#  Clock could be a web site or wall clock, car dashboard clock, appliances dashboard clock,  etc., 
+#  but they are all displayed via web request made to server before they are display on the web site, 
+#  wall, dashboard, appliances, etc,
+#
 #  Codes below are modified/adapted from codes  ("""Code for the clock""") on: view-source:https://brython.info/             
 #                                                                                                                           
 #  This implementation generalises original codes to any type of clock using "Factory" Design Pattern.                       
@@ -21,11 +24,10 @@
 #  Licensed: BSD 3-Clause "New" or "Revised" License. See: https://spdx.org/licenses/BSD-3-Clause.html                      
 #
 #
-# ****************************************************************************************
-# ****************************************************************************************
+# ****************************************************************************************************************************
+# ****************************************************************************************************************************
 
 
-#=============================================================================================================================
 # 1. import statements
 try:
   from math import sin, cos, pi
